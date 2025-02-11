@@ -5,7 +5,7 @@ As a data analyst, I specialize in transforming raw data into actionable insight
  ## Skills & Expertise
 
 - **Data Analysis**: Proficient in analyzing large datasets to uncover trends, patterns, and insights.
-- **SQ**: Advanced SQL skills, including data extraction, transformation, and complex query optimization for performance.
+- **SQL**: Advanced SQL skills, including data extraction, transformation, and complex query optimization for performance.
 - **Excel & Google Sheets**: Strong ability to perform data manipulation, pivot tables, formulas, and advanced analytics.
 - **Data Visualization**: Experienced in creating interactive and insightful dashboards using Tableau and Power BI.
 - **Python (Basic)**: Familiar with Python for basic data cleaning and analysis, with a focus on Pandas and Matplotlib for visualizations.
