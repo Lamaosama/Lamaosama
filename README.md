@@ -10,7 +10,7 @@ As a data analyst, I specialize in transforming raw data into actionable insight
 - **Data Visualization**: Experienced in creating interactive and insightful dashboards using Tableau and Power BI.
 - **Python (Basic)**: Familiar with Python for basic data cleaning and analysis, with a focus on Pandas and Matplotlib for visualizations.
   
-## 🌱 Currently Learning
+## Currently Learning
 
 - **Advanced SQL** techniques for data optimization and analytical queries.
 - **Machine Learning** basics to enhance predictive capabilities in data analysis.
