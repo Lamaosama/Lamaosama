@@ -1,27 +1,27 @@
-## Hello, I’m Lama osama
+# Hello, I'm Lama Osama
 
-As a data analyst, I specialize in transforming raw data into actionable insights using a combination of advanced tools and techniques. With extensive experience in SQL, Excel, Google Sheets, Tableau, and Power BI, I help organizations make data-driven decisions and communicate findings through impactful visualizations.
+As a data analyst, I specialize in transforming raw data into actionable insights. I work with SQL, Excel, Google Sheets, Tableau, and Power BI to help organizations make data-driven decisions and communicate findings through clear visualizations.
 
- ## Skills & Expertise
+## Skills & Expertise
 
-- **Data Analysis**: Proficient in analyzing large datasets to uncover trends, patterns, and insights.
-- **SQL**: Advanced SQL skills, including data extraction, transformation, and complex query optimization for performance.
-- **Excel & Google Sheets**: Strong ability to perform data manipulation, pivot tables, formulas, and advanced analytics.
-- **Data Visualization**: Experienced in creating interactive and insightful dashboards using Tableau and Power BI.
-- **Python (Basic)**: Familiar with Python for basic data cleaning and analysis, with a focus on Pandas and Matplotlib for visualizations.
-  
-## Currently Learning
+- **Data Analysis** — analyzing large datasets to uncover trends, patterns, and insights
+- **SQL** — data extraction, transformation, and complex query optimization
+- **Excel & Google Sheets** — data manipulation, pivot tables, formulas, advanced analytics
+- **Data Visualization** — interactive dashboards in Tableau and Power BI
+- **Python** — data cleaning and analysis with Pandas and Matplotlib
 
-- **Advanced SQL** techniques for data optimization and analytical queries.
-- **Machine Learning** basics to enhance predictive capabilities in data analysis.
-- Advanced features in **Tableau** and **Power BI** for deeper analytics and enhanced user interactivity.
-- **Automation** techniques using Python to streamline data workflows and reporting.
+## Projects
 
-**How to Reach Me**
+| Project | What it does | Tools |
+|---|---|---|
+| [Sales Performance Dashboard](#) | Revenue, growth, and product mix across regions | Power BI, SQL |
+| [Customer Retention Analysis](#) | Cohort and churn analysis of the first 90 days | SQL, Excel |
+| [E-Commerce SQL Case Study](#) | Orders, customers, and delivery performance | SQL |
 
-- **Email**: [lamaosama@gmail.com]
-- **LinkedIn**: [(https://www.linkedin.com/in/lamaosama1997/)]
+## How to Reach Me
 
+- **Email:** [lamaosama@gmail.com](mailto:lamaosama@gmail.com)
+- **LinkedIn:** [linkedin.com/in/lamaosama1997](https://www.linkedin.com/in/lamaosama1997/)
 
-Thank you for visiting my profile! If you're working on data-driven projects and need a collaborator or a consultant, feel free to reach out—I’d love to connect.
+Thank you for visiting my profile — if you're working on a data-driven project and need a collaborator, feel free to reach out.
 
