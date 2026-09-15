@@ -20,7 +20,7 @@ As a data analyst, I specialize in transforming raw data into actionable insight
 
 ## How to Reach Me
 
-- **Email:** [lamaosama@gmail.com](mailto:lamaosama@gmail.com)
+- **Email:** [lamaosama520@gmail.com](mailto:lamaosama@gmail.com)
 - **LinkedIn:** [linkedin.com/in/lamaosama1997](https://www.linkedin.com/in/lamaosama1997/)
 
 Thank you for visiting my profile — if you're working on a data-driven project and need a collaborator, feel free to reach out.
